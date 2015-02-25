@@ -1,0 +1,15 @@
+#################
+# Visual Studio #
+################# 
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+
+###########
+# Eclipse #
+###########
+.settings/
+.classpath
+.project
+target/
